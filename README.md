@@ -14,7 +14,10 @@
   - `go mod vendor`
   - `go run main.go`
   - server should start on port 8080
-
+  
+ > table is created automatically with server start
+ > primary key is **ID**
+ > survivor name must be unique
 
 # APIs and their responses
 
